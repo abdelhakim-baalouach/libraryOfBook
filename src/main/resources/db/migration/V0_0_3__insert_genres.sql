@@ -1,0 +1,7 @@
+INSERT INTO public.genres (id, name, state_enum, created_date, last_modified_date) VALUES (1, 'Classics', 'ACTIVE', '2022-01-15 21:48:53.222362', '2022-01-15 21:48:53.222362');
+INSERT INTO public.genres (id, name, state_enum, created_date, last_modified_date) VALUES (2, 'Comic Book', 'ACTIVE', '2022-01-15 21:49:17.415112', '2022-01-15 21:49:17.415112');
+INSERT INTO public.genres (id, name, state_enum, created_date, last_modified_date) VALUES (3, 'Detective and Mystery', 'ACTIVE', '2022-01-15 21:49:36.225635', '2022-01-15 21:49:36.225635');
+INSERT INTO public.genres (id, name, state_enum, created_date, last_modified_date) VALUES (4, 'Fantasy', 'ACTIVE', '2022-01-15 21:49:48.713694', '2022-01-15 21:49:48.713694');
+INSERT INTO public.genres (id, name, state_enum, created_date, last_modified_date) VALUES (5, 'Historical Fiction', 'ACTIVE', '2022-01-15 21:49:59.049374', '2022-01-15 21:49:59.049374');
+INSERT INTO public.genres (id, name, state_enum, created_date, last_modified_date) VALUES (6, 'Horror', 'ACTIVE', '2022-01-15 21:50:09.003944', '2022-01-15 21:50:09.003944');
+INSERT INTO public.genres (id, name, state_enum, created_date, last_modified_date) VALUES (7, 'Literary Fiction', 'ACTIVE', '2022-01-15 21:50:32.021464', '2022-01-15 21:50:32.021464');

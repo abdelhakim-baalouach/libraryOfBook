@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/library_of_books
+    username: postgres
+    password: root
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    deserialization:
+      accept-single-value-as-array: true

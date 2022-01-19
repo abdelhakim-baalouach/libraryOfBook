@@ -1,0 +1,10 @@
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('8360ddcd-4fc9-4450-ba10-d8ec5bb25c32', 1, 'ACTIVE', '2022-01-16 00:30:47.388702', '2022-01-16 00:30:47.388702');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('a4be3527-954f-4bbc-a5dd-4d3b0cf57919', 1, 'ACTIVE', '2022-01-16 00:30:47.411713', '2022-01-16 00:30:47.411713');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('5be3b0e6-92a3-4cd3-9d6f-94c209e66302', 1, 'ACTIVE', '2022-01-16 00:30:47.413718', '2022-01-16 00:30:47.413718');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('ac5ccb25-8bf7-4954-9f05-edd7f976bb94', 1, 'ACTIVE', '2022-01-16 00:30:47.416717', '2022-01-16 00:30:47.416717');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('c0d06872-ccd4-4ece-882b-6cc898a33214', 1, 'ACTIVE', '2022-01-16 00:30:47.420714', '2022-01-16 00:30:47.420714');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('d847a7e8-0a5b-4b37-9b78-4f99a87a375e', 2, 'ACTIVE', '2022-01-16 00:31:22.161257', '2022-01-16 00:31:22.161257');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('aa2c7c2b-eec8-4017-a23d-472e260a7c42', 2, 'ACTIVE', '2022-01-16 00:31:22.164258', '2022-01-16 00:31:22.164258');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('fa1ba0be-e5d3-457c-890c-9c6a1a36f3dc', 2, 'ACTIVE', '2022-01-16 00:31:22.168257', '2022-01-16 00:31:22.168257');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('ff7b2b6d-b8c0-454a-94e9-fbdc75f378ee', 2, 'ACTIVE', '2022-01-16 00:31:22.171256', '2022-01-16 00:31:22.171256');
+INSERT INTO public.book_instances (uid, book_id, state_enum, created_date, last_modified_date) VALUES ('739d07dc-c53e-4c49-bf6d-c9a4401942ed', 2, 'ACTIVE', '2022-01-16 00:31:22.174255', '2022-01-16 00:31:22.174255');

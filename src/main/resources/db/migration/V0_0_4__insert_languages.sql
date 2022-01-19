@@ -1,0 +1,3 @@
+INSERT INTO public.languages (id, name, state_enum, created_date, last_modified_date) VALUES (1, 'English', 'ACTIVE', '2022-01-15 21:52:21.666714', '2022-01-15 21:52:21.666714');
+INSERT INTO public.languages (id, name, state_enum, created_date, last_modified_date) VALUES (2, 'French', 'ACTIVE', '2022-01-15 21:52:41.256177', '2022-01-15 21:52:41.256177');
+INSERT INTO public.languages (id, name, state_enum, created_date, last_modified_date) VALUES (3, 'Arabic', 'ACTIVE', '2022-01-15 21:53:08.281142', '2022-01-15 21:53:08.281142');
